@@ -1,0 +1,7 @@
+#line 1 "C:\\Users\\Arif\\Software\\arduino\\IRMotor\\.vscode\\arduino.json"
+{
+    "sketch": "IRMotor.ino",
+    "output": "build",
+    "board": "arduino:avr:uno",
+    "port": "COM10"
+}
